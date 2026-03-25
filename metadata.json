@@ -1,0 +1,5 @@
+{
+  "name": "SimplifyX",
+  "description": "Transform long textbook chapters into structured, easy-to-understand study notes using AI and OCR.",
+  "requestFramePermissions": []
+}
