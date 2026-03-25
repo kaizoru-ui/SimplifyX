@@ -24,7 +24,8 @@ import {
   Book,
   Zap,
   Plus,
-  Globe
+  Globe,
+  Settings
 } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useDropzone } from "react-dropzone";
